@@ -1,4 +1,4 @@
 cypher-queries
 ==============
 
-A place for me to store cypher queries that might come in handy.
+Neo4j Cypher queries I've written that might be useful later.
